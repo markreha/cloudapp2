@@ -1,0 +1,6 @@
+[submodule "react"]
+	path = react
+	url = https://github.com/markreha/cloudappReact
+[submodule "angular"]
+	path = angular
+	url = https://github.com/markreha/cloudappAngular
